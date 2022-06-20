@@ -1,2 +1,4 @@
-# plumed_code_and_input_pathcoordtable
-Plumed input and modified 1.3 code to include path collective variables based on coordination patterns (PNAS 112, 15030 (2015)), compatible with CPMD, QuantumEspresso, CP2K etc., with an example of usage.
+# plumed_input_pathcoordtable
+Plumed input to include path collective variables based on coordination patterns (PNAS 112, 15030 (2015)).
+
+It includes input for versions 2.x and 1.3, in the latter case with the necessary modified code (compatible with CPMD, QuantumEspresso, CP2K etc.).
